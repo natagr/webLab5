@@ -1,0 +1,33 @@
+
+.about {
+    padding: 2rem 0;
+  }
+  
+  .contact {
+    padding: 2rem 0;
+  }
+  
+  .history {
+    padding: 2rem 0;
+  }
+  
+  .home {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .products {
+    padding: 2rem 0;
+  }
+  
+  .sidebar {
+    width: 300px;
+    float: right;
+    clear: both;
+    height: 750px;
+    display: flex;
+    align-items: flex-end;
+  }

@@ -1,0 +1,20 @@
+
+:root {
+    --pink: #e84393;
+  }
+  
+  .heading span {
+    color: var(--pink);
+  }
+  
+  .col-md-3 .discount {
+    color: var(--pink);
+  }
+  
+  .col-md-12 .credit span {
+    color: var(--pink);
+  }
+  
+  .sidebar .col-md-12 p {
+    color: var(--pink);
+  }

@@ -1,0 +1,13 @@
+
+.header .nav-link:hover {
+    color: var(--pink);
+  }
+  
+  .col-md-3:hover .image .icons {
+    bottom: 0;
+  }
+  
+  .btn:hover {
+    background: var(--pink);
+  }
+  

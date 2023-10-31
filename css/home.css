@@ -1,0 +1,42 @@
+ .home {
+     min-height: 100vh;
+     display: flex;
+     align-items: center;
+     background: url(../images/home-bg.jpg) no-repeat;
+     background-size: cover;
+     background-position: center;
+ }
+
+ .home .home-content {
+     max-width: 50rem;
+ }
+
+
+
+
+ .home .home-content h3 {
+     font-size: 6rem;
+     color: white;
+ }
+
+ .home .home-content span {
+     font-size: 3.5rem;
+     color: var(--pink);
+     padding: 1rem 0;
+     line-height: 1.5;
+ }
+
+ .home .home-content p {
+     font-size: 1.5rem;
+     color: #999;
+     padding: 1rem 0;
+     line-height: 1.5;
+ }
+
+
+
+
+
+
+
+ 

@@ -1,0 +1,17 @@
+.sidebar {
+    width: 300px;
+    float: right;
+    clear: both;
+    height: 750px;
+    display: flex; 
+    align-items: flex-end; 
+}
+
+.sidebar .col-md-12 p {
+    text-align: center;
+    padding: 28px;
+    color: var(--pink); 
+    font-size: 2rem; 
+    background-color: transparent;
+}
+
